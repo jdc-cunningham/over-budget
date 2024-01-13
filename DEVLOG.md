@@ -5,6 +5,18 @@
 
 <img src="./design.JPG"/>
 
+### 01/12/2024
+
+6:24 PM
+
+This currently does not do what it's supposed to (tell me if I'm f'd, which I am).
+
+6:34 PM
+
+Oh yeah I can see this, click the row and expand
+
+<img src="./interactivity.png"/>
+
 ### 01/11/2024
 
 7:01 PM
